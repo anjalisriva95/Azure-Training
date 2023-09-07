@@ -71,4 +71,8 @@ df1.write.mode("append").option("mergeSchema", "true").saveAsTable("mergeschema"
 
 # COMMAND ----------
 
+df1.show()
+
+# COMMAND ----------
+
 
